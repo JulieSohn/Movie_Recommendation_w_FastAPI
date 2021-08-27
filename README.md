@@ -1,5 +1,6 @@
 ## Movie Recommendation Engine w FastAPI
 
+```
 .
 ├── README.md
 ├── data
@@ -12,3 +13,5 @@
 ├── recommendation.py
 └── templates
     └── form.html
+
+```
