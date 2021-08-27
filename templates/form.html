@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Recommendation</title>
+</head>
+<body>
+<form method="post">
+    <input type="text" name="movie" value="Type movie here..."/>
+    <input type="submit">
+</form>
+
+<p>Recommendation: {{ result|safe }} </p>
+
+</body>
+</html>
