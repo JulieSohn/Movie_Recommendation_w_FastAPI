@@ -1,5 +1,7 @@
 ## Movie Recommendation Engine w FastAPI
 
+Run ```uvicorn main:app --reload ``` and open the link.
+
 ```
 .
 ├── README.md
