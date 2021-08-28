@@ -12,8 +12,8 @@ import seaborn as sns
 # Load data
 #========================================
 
-movies = pd.read_csv("/Users/juliesohn/Desktop/Coding/recommendation/data/movies.csv")
-ratings = pd.read_csv("/Users/juliesohn/Desktop/Coding/recommendation/data/ratings.csv")
+movies = pd.read_csv("/Users/juliesohn/Desktop/Coding/Movie_Recommendation_w_FastAPI/data/movies.csv")
+ratings = pd.read_csv("/Users/juliesohn/Desktop/Coding/Movie_Recommendation_w_FastAPI/data/ratings.csv")
 
 #movies.head(3)
 #ratings.head(3)
